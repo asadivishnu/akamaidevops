@@ -1,0 +1,20 @@
+# Akamai credentials
+.edgerc
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+
+# Terraform variable files
+*.tfvars
+*.tfvars.json
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
